@@ -1,5 +1,5 @@
 [project]
-name = "jklm-client" # Required
+name = "jklm" # Required
 version = "1.0.1" # Required
 readme = "README.md"
 description = "Python client for the party game JKLM.fun" # Optional
